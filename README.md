@@ -1,6 +1,6 @@
 # npmdoc-restangular
 
-#### api documentation for  [restangular (v1.6.1)](https://github.com/mgonto/restangular)  [![npm package](https://img.shields.io/npm/v/npmdoc-restangular.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-restangular) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-restangular.svg)](https://travis-ci.org/npmdoc/node-npmdoc-restangular)
+#### basic api documentation for  [restangular (v1.6.1)](https://github.com/mgonto/restangular)  [![npm package](https://img.shields.io/npm/v/npmdoc-restangular.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-restangular) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-restangular.svg)](https://travis-ci.org/npmdoc/node-npmdoc-restangular)
 
 #### Restful Resources service for AngularJS apps
 
@@ -98,7 +98,8 @@
     "scripts": {
         "test": "grunt test --verbose"
     },
-    "version": "1.6.1"
+    "version": "1.6.1",
+    "bin": {}
 }
 ```
 
